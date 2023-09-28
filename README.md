@@ -24,3 +24,7 @@
 - useeffectle ekrana yazdıracağız.
 
 - bildirim için toast kurulumu yap. main
+
+
+
+https://github.com/Busrac1/WorkProject-ReduxToolkit/assets/125571297/12b1c890-1727-4b2e-b1c7-1b525abbcab6
